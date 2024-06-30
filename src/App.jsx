@@ -1,5 +1,5 @@
 import userData from "./userData.json";
-import Profile from "./components/Profile/iuhf";
+import Profile from "./components/Profile/Profile";
 import friends from "./friendsList.json";
 import FriendList from "./components/FrendList/FriendList";
 import transactions from "./transactions.json";
